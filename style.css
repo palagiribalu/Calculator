@@ -1,0 +1,145 @@
+
+form {
+	display: inline;
+}
+
+.empty-space {
+	height: 80px;	
+}
+
+.inputField {
+	margin-bottom: 5px;	
+}
+
+.pInfo {
+	color: #999;
+	font-size: small;
+	margin: 0px;
+}
+
+.userDescription {
+    padding: 0px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	font-size: 12px;
+	border-bottom: 1px solid #eeeeee;	
+}
+    
+
+.userInfo {
+	padding: 0px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	font-size: 12px;
+	border-bottom: 1px solid #eeeeee;	
+}
+	
+	.userInfo p {
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.userInfo a:link {
+		text-decoration: none;
+	}
+	
+	.userInfo a:active {
+		text-decoration: none;
+	}
+	
+	.userInfo a:hover {
+		text-decoration: none;
+		color: #f43333;
+	}
+	
+	.userInfo a:visited {
+		text-decoration: none;
+	}
+
+.comments {
+	padding: 0px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	border-bottom: 1px solid #eeeeee;	
+}
+	
+	.comments p {
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+.usersInfo {
+	padding: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	border-bottom: 1px solid #eeeeee;	
+}
+	
+	.usersInfo p {
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.usersInfo a:link {
+		text-decoration: none;
+	}
+	
+	.usersInfo a:active {
+		text-decoration: none;
+	}
+	
+	.usersInfo a:hover {
+		text-decoration: none;
+		color: #f43333;
+	}
+	
+	.usersInfo a:visited {
+		text-decoration: none;
+	}
+
+.tweetText {
+	word-wrap: break-word;
+	font-size: 16px;
+}
+
+	
+/*Bootstrap muudatused*/
+
+h1, h2, h3, h4, h5 {
+	color: #f99f9f;	
+}
+
+.navbar .brand {
+  width: 50px;
+  float: none;
+}
+
+.brand {
+    position: absolute;
+    top: 5px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.panel-body {
+	margin-top: 0px;
+	padding: 10px;
+	text-align: center;
+	border: #f43333;	
+
+}
+
+
+.page-header {
+	margin-top: 0px;	
+}
+
+.list-group {
+	margin-bottom: 10px;
+}
+
+.list-group-item {
+	border: 1px solid #f43333;	
+}
